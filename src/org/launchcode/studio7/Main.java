@@ -7,6 +7,8 @@ public class Main {
         // TODO: Declare and initialize a CD and a DVD object.
 
         // TODO: Call each CD and DVD method to verify that they work as expected.
+//        CD WOWHits2007 = new CD("Lion King", 16);
+//        DVD lionKing = new DVD();
 
     }
 }
